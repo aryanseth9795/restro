@@ -1,0 +1,124 @@
+.home{
+    height: 87.5vh;
+    width: 100%;
+    display: flex;
+}
+#lo a{
+ margin: 2px;
+}
+
+.showcase-area{
+    height: 100%;
+    color: #16a085;
+    background: #000000;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.showcase-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 40%;
+    font-size: 1.5rem;
+    /* padding-top: 30px; */
+}
+
+.showcase-container h1{
+    text-transform: uppercase;
+}
+
+.bgImage{
+    height: 100%;
+    width: 60%;
+}
+#img1{
+    position: relative;
+    height: 100%;
+   width: 100%;
+}
+/* ########################## about us styling ###########################  */
+#about{
+    /* height: 400px; */
+    /* padding: 50px 0; */
+    background: #000000;
+}
+
+.about-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#about h2{
+    font-size: 3.2rem;
+    color: white;
+}
+#about p{
+    font-size: 1.6rem;
+    color: #ffffff;
+}
+#about .small{
+    font-size: 1.6rem;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.about-text{
+    flex: 1 1 400px;
+    padding: 30px;
+    height: 100%;
+    margin: auto;
+    animation-name: about-text-animation;
+    animation-duration: 1s;
+    transform: translateX(-150%);
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+}
+@keyframes about-img-animation{
+    100%{
+        transform: translateX(0);
+    }
+}
+@keyframes about-text-animation{
+    100%{
+        transform: translateX(0);
+    }
+}
+.about-wrapper .about-img img{
+    display: block;
+    height: 400px;
+    max-width: 100%;
+    margin: auto;
+    object-fit: cover;
+    object-position: right;
+}
+.btn{
+    display: inline-block;
+    padding: 1em ;
+    text-decoration: none;
+    border-radius: 50px;
+    cursor: pointer;
+    outline: none;
+    margin-top: 1em;
+    /* margin-left: 15%; */
+    text-transform: uppercase;
+    font-weight: 500;
+    background: #16a085;
+    color: #fff;
+    height: 60px;
+    width:100%;
+   
+    
+}
+.btn-primary{
+    color: #fff;
+    background: #16a085;
+}
