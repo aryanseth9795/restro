@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restro/static/css/main.0a70cac1.css",
+    "main.js": "/restro/static/js/main.80803fb1.js",
+    "static/media/2.jpg": "/restro/static/media/2.9283c8e6c2bfcec1d639.jpg",
+    "static/media/3.jpg": "/restro/static/media/3.837e3ac2333112fe3ed4.jpg",
+    "static/media/6.jpg": "/restro/static/media/6.fa414484aeade2edda8d.jpg",
+    "static/media/4.jpg": "/restro/static/media/4.158f0d137705f35d3167.jpg",
+    "static/media/5.jpg": "/restro/static/media/5.cae8db9f114ddc4fffe9.jpg",
+    "static/media/chik.webp": "/restro/static/media/chik.6f222fddaae848d5476d.webp",
+    "static/media/8.jpg": "/restro/static/media/8.5083cd98f3f4a9b7992a.jpg",
+    "static/media/hom.jpg": "/restro/static/media/hom.6a545d4d0a80d9813949.jpg",
+    "static/media/7.jpg": "/restro/static/media/7.64cebddb341a0a07b1fc.jpg",
+    "static/media/Fruit.jpg": "/restro/static/media/Fruit.bb1565f7b05b41c479ea.jpg",
+    "static/media/piz.webp": "/restro/static/media/piz.ec3db9a3ebab3314757f.webp",
+    "static/media/log.webp": "/restro/static/media/log.0ca91dc22fa0321c8fe3.webp",
+    "index.html": "/restro/index.html",
+    "main.0a70cac1.css.map": "/restro/static/css/main.0a70cac1.css.map",
+    "main.80803fb1.js.map": "/restro/static/js/main.80803fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a70cac1.css",
+    "static/js/main.80803fb1.js"
+  ]
+}
